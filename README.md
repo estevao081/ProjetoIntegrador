@@ -116,8 +116,8 @@ Um departamento pode ter **vários professores** (*1:N*).
 
 ## Autores
 **Thiago Estevão**  
-**Felipe Bruno**  
-**Gabriela Sarto**  
-**Lara Ferreira Gonçalves**  
-**Nicolas do Nascimento Soares**  
+
+
+---
+
 Projeto desenvolvido como parte do **Projeto Integrador**, com foco em **modelagem UML e POO aplicada a sistemas acadêmicos**.
